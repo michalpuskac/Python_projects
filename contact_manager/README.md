@@ -47,7 +47,7 @@ The application is modular, with separate components for functionality (contacts
 
 1. **Clone the repository:**
 ```bash
-    git clone <https://github.com/michalpuskac/Python-Projects.git>
+    git clone <https://github.com/michalpuskac/Python_projects.git>
     cd password_manager
 ```
 

@@ -36,7 +36,7 @@ This is a command-line **Rock, Paper, Scissors** game built in Python. It uses t
 
 1. **Clone the repository:**
 ```bash
-    git clone <repository_url>
+    git clone <https://github.com/michalpuskac/Python_projects.git>
     cd password_manager
 ```
 

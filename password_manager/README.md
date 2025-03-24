@@ -40,7 +40,7 @@ A simple command-line password manager built in Python. This application securel
 
 1. **Clone the repository:**
 ```bash
-    git clone <repository_url>
+    git clone <https://github.com/michalpuskac/Python_projects.git>
     cd password_manager
 ```
 
