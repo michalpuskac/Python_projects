@@ -6,11 +6,6 @@ A command-line application to manage contacts, allowing users to add, edit, dele
 
  - More details about app can be seen [here](contact_manager/README.md).
 
-## **currency_converter_Flask**:
-
-A web application built with Flask that converts amounts between different currencies using real-time exchange rates.
- - More details about app can be seen [here](currency_converter_Flask/README.md).
-
 ## **currency_converter_GUI**:
 
 A desktop application with a graphical user interface for converting currencies, providing an intuitive user experience.
